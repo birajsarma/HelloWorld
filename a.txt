@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5CBB-474B
+
+ Directory of C:\Users\Biraj\Desktop\java
+
+18-07-2017  00:26    <DIR>          .
+18-07-2017  00:26    <DIR>          ..
+18-07-2017  00:26                 0 a.txt
+18-07-2017  00:23               674 Hello.class
+17-07-2017  23:54               136 Hello.java
+18-07-2017  00:20               433 readme.txt
+               4 File(s)          1,243 bytes
+               2 Dir(s)  104,163,786,752 bytes free
